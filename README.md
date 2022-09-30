@@ -72,6 +72,7 @@ Only two props are required to work: `id` from the YouTube you want to render an
 - [react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed) - A private by default, faster and cleaner YouTube embed component for React applications.
 - [vue-demi](https://github.com/vueuse/vue-demi/) - Creates Universal Library for Vue 2 & 3.
 - [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
+- [lite-youtube-embed](https://github.com/wobsoriano/vue-lite-youtube-embed) - A private by default, faster and cleaner YouTube embed component for React applications.
 
 ## License
 

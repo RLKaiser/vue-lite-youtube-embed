@@ -1,5 +1,5 @@
 {
-  "name": "rlk-vue-lite-youtube-embed",
+  "name": "@rlkaiser/rlk-vue-lite-youtube-embed",
   "description": "A private by default, faster and cleaner YouTube embed component for Vue applications.",
   "version": "1.0.0",
   "license": "MIT",
@@ -44,11 +44,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/RLKaiser/vue-lite-youtube-embed.git"
+    "url": "git+https://github.com/RLKaiser/vue-lite-youtube-embed.git"
   },
   "keywords": [
     "vue",
     "youtube",
     "embed"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/RLKaiser/vue-lite-youtube-embed/issues"
+  },
+  "homepage": "https://github.com/RLKaiser/vue-lite-youtube-embed#readme",
+  "author": "Richelle Kaiser"
 }
